@@ -1,0 +1,51 @@
+*
+{
+  text-align: center;
+}
+
+html,body
+{
+  margin: 0;
+  padding: 0px;
+}
+header
+{
+  background-color: red;
+}
+nav
+{
+  background-color: blue;
+  height: 30px;
+}
+section
+{
+  background-color: green;
+  height: 200px;
+  width: 70%;
+  float: left;
+}
+h2,h3,h4{
+
+  margin: 0px;
+}
+
+article
+{
+  background-color: purple;
+}
+aside
+{
+  background-color: cyan;
+  height: 200px;
+  width: 30%;
+  float: left;
+}
+footer
+{
+  background-color: yellow;
+  width: 100%;
+}
+h1
+{
+  margin: 0;
+}
